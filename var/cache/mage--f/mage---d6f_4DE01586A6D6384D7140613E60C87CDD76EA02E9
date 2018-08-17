@@ -1,0 +1,160 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>New Products</h2>
+    </div>
+    <div class="widget-products">
+        
+        <div class="pager pager-no-toolbar">
+    
+        <div class="count-container">
+                                <p class="amount amount--has-pages">
+                1-5 of 6            </p>
+                    
+            </div>
+    
+        <div class="pages">
+        <strong>Page:</strong>
+        <ol>
+        
+        
+        
+                                    <li class="current">1</li>
+                                                <li><a href="http://localhost/magento/index.php/?___SID=U&amp;np=2">2</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next" href="http://localhost/magento/index.php/?___SID=U&amp;np=2" title="Next">
+                                            Next                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+        </div>
+    
+                        <ul class="products-grid products-grid--max-5-col-widget">
+                            <li class="item last">
+                                                            <a href="http://localhost/magento/index.php/warm-sweater.html?___SID=U" title="Warm sweater" class="product-image">
+                        <img src="http://localhost/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/w/sweater.jpg" alt="Warm sweater" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/magento/index.php/warm-sweater.html?___SID=U" title="Warm sweater">Warm sweater</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-6-widget-new-grid">
+                                            <span class="price">$21.99</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/product/6/form_key/mrkfTDVk1ywdYVKP/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/magento/index.php/wishlist/index/add/product/6/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/magento/index.php/catalog/product_compare/add/product/6/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://localhost/magento/index.php/polo-shirt.html?___SID=U" title="Polo shirt" class="product-image">
+                        <img src="http://localhost/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/p/o/polo_1.jpg" alt="Polo shirt" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/magento/index.php/polo-shirt.html?___SID=U" title="Polo shirt">Polo shirt</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-5-widget-new-grid">
+                                            <span class="price">$29.50</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/product/5/form_key/mrkfTDVk1ywdYVKP/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/magento/index.php/wishlist/index/add/product/5/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/magento/index.php/catalog/product_compare/add/product/5/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://localhost/magento/index.php/shirt-for-her.html?___SID=U" title="Shirt for her" class="product-image">
+                        <img src="http://localhost/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/s/h/shirt.jpg" alt="Shirt for her" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/magento/index.php/shirt-for-her.html?___SID=U" title="Shirt for her">Shirt for her</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-4-widget-new-grid">
+                                            <span class="price">$9.99</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/product/4/form_key/mrkfTDVk1ywdYVKP/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/magento/index.php/wishlist/index/add/product/4/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/magento/index.php/catalog/product_compare/add/product/4/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://localhost/magento/index.php/cool-sweater.html?___SID=U" title="Cool sweater" class="product-image">
+                        <img src="http://localhost/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/men_sweater.jpg" alt="Cool sweater" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/magento/index.php/cool-sweater.html?___SID=U" title="Cool sweater">Cool sweater</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-3-widget-new-grid">
+                                            <span class="price">$18.99</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/product/3/form_key/mrkfTDVk1ywdYVKP/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/magento/index.php/wishlist/index/add/product/3/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/magento/index.php/catalog/product_compare/add/product/3/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://localhost/magento/index.php/men-shirt.html?___SID=U" title="Men Shirt" class="product-image">
+                        <img src="http://localhost/magento/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/m/e/men_shirt.jpg" alt="Men Shirt" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://localhost/magento/index.php/men-shirt.html?___SID=U" title="Men Shirt">Men Shirt</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-2-widget-new-grid">
+                                            <span class="price">$23.99</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://localhost/magento/index.php/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/product/2/form_key/mrkfTDVk1ywdYVKP/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://localhost/magento/index.php/wishlist/index/add/product/2/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://localhost/magento/index.php/catalog/product_compare/add/product/2/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2luZGV4LnBocC8_bnA9MQ,,/form_key/mrkfTDVk1ywdYVKP/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
